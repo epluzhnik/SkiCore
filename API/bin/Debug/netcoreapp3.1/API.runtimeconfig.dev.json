@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\egorp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\egorp\\.nuget\\packages"
+    ]
+  }
+}
