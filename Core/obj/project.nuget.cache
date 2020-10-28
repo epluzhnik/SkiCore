@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "spfq6rARFFS8dbpIWlQrI6i09ba5M9VJgReraxtLWH5lfQzeXcE7eY4uGbWf5dENc0eHsrA1QIai2w831de5sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egorp\\Desktop\\ASP.NET Core Projects\\SkiCore\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egorp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\egorp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
