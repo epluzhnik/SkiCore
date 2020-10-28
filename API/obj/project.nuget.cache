@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ty75dFHTm3COoDiXCE/DlGIIuafDaPN9tu0Gtdoa309lOXxbR1BeNKb96lmZVC4rSlS2oLVjvUBUZSI6pL8H2A==",
+  "dgSpecHash": "eWlB0arFi4jHN3qZCZMCoMb0PacME2nIyozKSulddv7c6IV5tWAqGfFw1sPGlPQ7aRhOqr9z+0GBcxjtVX9C4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\egorp\\Desktop\\ASP.NET Core Projects\\SkiCore\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -36,8 +36,7 @@
     "C:\\Users\\egorp\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\egorp\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\egorp\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\egorp\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\egorp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\egorp\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }
