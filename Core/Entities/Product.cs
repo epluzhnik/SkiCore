@@ -11,7 +11,7 @@
         public int ProductTypeId { get; set; }
         
         public ProductBrand ProductBrand { get; set; }
-        public int ProductBrandID { get; set; }
+        public int ProductBrandId { get; set; }
     }
 }
 
